@@ -1,0 +1,4 @@
+Wizard
+Druid
+Knight
+Bard
