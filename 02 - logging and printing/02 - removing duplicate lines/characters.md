@@ -1,4 +1,8 @@
 Wizard
-Druid
+Wizard
 Knight
 Bard
+Druid
+Druid
+Healer
+Barbarian
